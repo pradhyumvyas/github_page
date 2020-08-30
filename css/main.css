@@ -149,7 +149,7 @@ hr{
 
   #contact-me{
     text-align: center; 
-    text-shadow: 12px 19px 9px black;
+    text-shadow: 8px 14px 9px black;
   }
 
 .card{
@@ -170,3 +170,10 @@ hr{
   padding: 20px;
 } */
 
+.s2{
+  background-color: lightgray;
+  color: black;
+  border:darkgray;
+  padding: 10px;
+  margin: 50px;
+}
