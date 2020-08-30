@@ -170,10 +170,9 @@ hr{
   padding: 20px;
 } */
 
-.s2{
-  background-color: lightgray;
-  color: black;
-  border:darkgray;
-  padding: 10px;
-  margin: 50px;
+.footer{
+  background-color: black;
+  margin: 10px;
+  padding-top: 5px;
+  padding-bottom: 3px;
 }
