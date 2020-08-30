@@ -1,4 +1,4 @@
-var myHeader = document.querySelector(".header")
+var myHeader = document.querySelector(".name")
 
 myHeader.addEventListener("mouseenter", () => {
     myHeader.style.fontSize = '50px';
