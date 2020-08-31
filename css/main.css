@@ -93,10 +93,11 @@ hr {
 }
 
 .list__item::before {
+  align-items: center;
   content: '';
   position: absolute;
-  width: 85%;
-  height: 100%;
+  /* width: 85%; */
+  /* height: 100%; */
   top: 0;
   left: 0;
   background-color: #fff;
@@ -127,8 +128,8 @@ hr {
 }
 
 .fab {
-  font-size: 40px;
-  color: #fff;
+  font-size: 25px;
+  color:darkslategrey;
   transform: rotate(-45deg);
 }
 
