@@ -2,6 +2,7 @@ body {
   background-color: darkgrey;
   color: ivory;
   /* display: inline; */
+  oncopy:"return false";
 }
 
 .intro {
@@ -192,4 +193,11 @@ hr {
   margin: 10px;
   padding-top: 5px;
   padding-bottom: 3px;
+}
+
+.resumeDocs{
+
+  /* height: 100%; */
+  /* width: 100%; */
+
 }
