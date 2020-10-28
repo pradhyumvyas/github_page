@@ -14,3 +14,4 @@ myHeader.addEventListener("mouseleave", () => {
 
 // TODO://
 // Color design
+// Gradient COLOR 
