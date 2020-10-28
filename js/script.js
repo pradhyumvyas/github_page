@@ -1,3 +1,5 @@
+const { getDefaultSettings } = require("http2");
+
 var myHeader = document.querySelector(".name")
 
 myHeader.addEventListener("mouseenter", () => {
@@ -8,3 +10,7 @@ myHeader.addEventListener("mouseenter", () => {
 myHeader.addEventListener("mouseleave", () => {
     myHeader.style.fontSize = 'xx-large';
 })
+
+
+// TODO://
+// Color design
