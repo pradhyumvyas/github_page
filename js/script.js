@@ -14,7 +14,7 @@ myHeader.addEventListener("mouseleave", () => {
 
 // TODO://
 // Color design
-// Gradient COLOR 
+// Gradient COLOR    ==     DONE
 // Theme Selection 
 // Resume Updation 
 // Project Making 
