@@ -1,4 +1,4 @@
-const { getDefaultSettings } = require("http2");
+// const { getDefaultSettings } = require("http2");
 
 var myHeader = document.querySelector(".name")
 
