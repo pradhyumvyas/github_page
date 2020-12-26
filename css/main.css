@@ -4,7 +4,14 @@ body {
   color: ivory;
   /* display: inline; */
   oncopy:"return false";
+  font-family: 'Josefin Slab', serif;
+
 }
+
+ul{
+	list-style: none;
+}
+
 
 .intro {
   background-color: lightgray;
@@ -178,6 +185,12 @@ hr {
 .card {
   margin: 10px;
   max-height: 450px;
+}
+
+.socialMediaIcon{
+  display: flex;
+  justify-content: space-around;
+
 }
 
 
