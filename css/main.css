@@ -223,7 +223,9 @@ hr {
 
 
 .contactForm{
-  display: flex;
-  align-items: center;
-  justify-content: center;
+
+}
+
+.contactFormNav{
+  padding-top: 20px;
 }
