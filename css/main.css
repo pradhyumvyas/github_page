@@ -44,6 +44,11 @@ ul{
   background-color: RoyalBlue;
 }
 
+.nav-link:hover {
+  font-size: 23px;
+  background-color: RoyalBlue;
+}
+
 .introText {
   margin: 20px;
   font-family: 'Josefin Slab', serif;
@@ -223,9 +228,11 @@ hr {
 
 
 .contactForm{
-
+  display: flex;
+  justify-content: center;
+  margin-top:10px;
 }
 
 .contactFormNav{
-  padding-top: 20px;
+  /* margin-top: 50px; */
 }
